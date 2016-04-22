@@ -1,7 +1,5 @@
 [Adblock Plus list for Chinese]
-! Version: 20160419
 ! Title: Adblock Plus list for Chinese
-! Last modified: 19 Apr 2016 19:40 UTC
 !
 !-----------------------General advert blocking filters-----------------------!
 ! *** https://github.com/xepin/Adblock-Plus-list-for-Chinese/blob/master/adp_list_chinese.txt ***
