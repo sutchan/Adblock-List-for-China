@@ -4,10 +4,11 @@
 !-----------------------General advert blocking filters-----------------------!
 ! *** https://github.com/xepin/Adblock-Plus-list-for-Chinese/blob/master/adp_list_chinese.txt ***
 
+##*#gaosu_div0
+##*#gaosu_div1
 ##*#hui-content
+##*#hui-onekey
 ##*#hui-plugin-promotions
 ##*#hui-plugin-qrcode
 ##*#youdaoGWZS-sidebar-right
 ##*.mui-mbar-tab-qrcode
-##*#gaosu_div0
-##*#gaosu_div1
