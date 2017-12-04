@@ -1,26 +1,56 @@
-!
-! *** https://github.com/xepin/Adblock-Plus-list-for-Chinese/blob/master/adp_list_chinese.txt ***
-! Title: Adblock Plus list for Chinese
-!-----------------------General advert blocking filters-----------------------!
+!*** https://github.com/xepin/Adblock-Plus-list-for-Chinese/blob/master/adp_list_chinese.txt
+!*** Title: Adblock Plus list for Chinese
+!***-----------------------General advert blocking filters-----------------------!
+##*#bjd_yifenqian_detail
+##*#fl_pop_wrap_cntr
 ##*#gaosu_div0
 ##*#gaosu_div1
-##*#hui-content
+##*#gwd_lowpri_detail
+##*#gwd_promo_box
+##*#hui-coupon
 ##*#hui-onekey
 ##*#hui-plugin-promotions
 ##*#hui-plugin-qrcode
-##*#NInxjDdTsUB
-##*#sVPMXSe
+##*#recommend_helloRf
+##*#recommend_zdo
+##*#shutterstockapi
+##*#shutterstock-results
+##*#sufei-dialog-content
 ##*#youdaoGWZS-sidebar-right
-##*.aside
-##*.BpkrWfLaXXVvj
+##*.advlong-bottom
+##*.bluegirl
+##*.com-lowpri
+##*.guide-img
+##*.gwd_website
+##*.gwd_wishlist_btn_handle_event
+##*.hui-active
 ##*.hui-link
+##*.hui-new-sp
+##*.hui-pro-more
+##*.hui-promotion-content
+##*.hui-qrcode-container
+##*.hui-shopping-img-link
 ##*.J_TQRLinkShop
+##*.js-sponsored-videos
 ##*.mui-mbar-tab-qrcode
-||*.ydstatic.com/image?id=*&product=gouwu
+##*.post-download
+##*.qly-join-group
+##*.qly-logo
+##*.qly-monitor-shop
+##*.qly-more
+##*.qly-queryRank-contain
+##*.qlyts-queryRank-contain
+##*.title-keyword-privi
 ||dnspod.cn/yantai/*.jpg
 ||down.tgjkbx.cn/xxjs/img/sdbeta-3.gif
 ||epinv.com/wp-content/themes/ep/mojingr.png
 ||epinv.com/wp-content/themes/ep/tu/yinshu.gif
+||img.alicdn.com/tfs/TB1R1cxRXXXXXbBXFXXXXXXXXXX-1636-100.jpg
+||img.alicdn.com/tps/TB1k94bOXXXXXanaFXXXXXXXXXX-586-800.png
+||img.alicdn.com/tps/TB1MLBTOXXXXXa.XXXXXXXXXXXX-586-800.png
+||img.alicdn.com/tps/TB1plR3OXXXXXXoXVXXXXXXXXXX-586-800.png
+||img.alicdn.com/tps/TB1QMjgJVXXXXbhXpXXXXXXXXXX-1636-100.jpg
+||img.alicdn.com/tps/TB18MXoMpXXXXXRXVXXXXXXXXXX-586-800.png
 ||img.feitian001.com//img/r/dot.gif
 ||img4.xitongzhijia.net/theme/2015/images/wx_qrcode.jpg
 ||myip.cn/images/bw.jpg
