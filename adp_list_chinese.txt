@@ -1,8 +1,14 @@
-!*** https://github.com/xepin/Adblock-Plus-list-for-Chinese/blob/master/adp_list_chinese.txt
 !*** Title: Adblock Plus list for Chinese
-!***-----------------------General advert blocking filters-----------------------!
+!*** https://github.com/xepin/Adblock-Plus-list-for-Chinese/blob/master/adp_list_chinese.txt
+||img.alicdn.com/tps/*-750-90.jpg
+||img.alicdn.com/imgextra/i4/1042417251/*.jpg
+||work.alibaba-inc.com/aliwork_tfs/*.jpg
+||img.alicdn.com/tps/*-100.jpg
+##*#LayerLogin #dialog
 ##*#bjd_yifenqian_detail
+##*#divtuijianpy
 ##*#fl_pop_wrap_cntr
+##*#fullbg
 ##*#gaosu_div0
 ##*#gaosu_div1
 ##*#gwd_lowpri_detail
@@ -13,11 +19,15 @@
 ##*#hui-plugin-qrcode
 ##*#recommend_helloRf
 ##*#recommend_zdo
-##*#shutterstockapi
 ##*#shutterstock-results
+##*#shutterstockapi
 ##*#sufei-dialog-content
 ##*#youdaoGWZS-sidebar-right
+##*.AdblockBanner
+##*.J_TQRLinkShop
 ##*.advlong-bottom
+##*.aside
+##*.auth-tips
 ##*.bluegirl
 ##*.com-lowpri
 ##*.guide-img
@@ -30,31 +40,44 @@
 ##*.hui-promotion-content
 ##*.hui-qrcode-container
 ##*.hui-shopping-img-link
-##*.J_TQRLinkShop
 ##*.js-sponsored-videos
 ##*.mui-mbar-tab-qrcode
+##*.mui-mbar-tabs
+##*.mui-mbarp-qrcode-tip
+##*.no-rights
+##*.no-rights-img
 ##*.post-download
+##*.qly-cry
+##*.qly-ext-operate-link
 ##*.qly-join-group
 ##*.qly-logo
+##*.qly-logo-normal
 ##*.qly-monitor-shop
 ##*.qly-more
 ##*.qly-queryRank-contain
+##*.qly-yhq
+##*.qly-yhq-logo
+##*.qly_product_dTitle
 ##*.qlyts-queryRank-contain
+##*.qlyts-titlescore-icon-title-general
+##*.qr_tips_pic
+##*.save-success-right
 ##*.title-keyword-privi
-||dnspod.cn/yantai/*.jpg
-||down.tgjkbx.cn/xxjs/img/sdbeta-3.gif
-||epinv.com/wp-content/themes/ep/mojingr.png
-||epinv.com/wp-content/themes/ep/tu/yinshu.gif
-||img.alicdn.com/tfs/TB1R1cxRXXXXXbBXFXXXXXXXXXX-1636-100.jpg
-||img.alicdn.com/tps/TB1k94bOXXXXXanaFXXXXXXXXXX-586-800.png
-||img.alicdn.com/tps/TB1MLBTOXXXXXa.XXXXXXXXXXXX-586-800.png
-||img.alicdn.com/tps/TB1plR3OXXXXXXoXVXXXXXXXXXX-586-800.png
-||img.alicdn.com/tps/TB1QMjgJVXXXXbhXpXXXXXXXXXX-1636-100.jpg
-||img.alicdn.com/tps/TB18MXoMpXXXXXRXVXXXXXXXXXX-586-800.png
-||img.feitian001.com//img/r/dot.gif
-||img4.xitongzhijia.net/theme/2015/images/wx_qrcode.jpg
-||myip.cn/images/bw.jpg
-||oimageb6.ydstatic.com/image?id=-4151503194706371131&product=gouwu
-||res.eqh5.com/*
-||sd173.com/images/yinsusd1731.gif
-xitongzhijia.net##p[style="display: block;"]
+##*.tm-mCart
+##*.tripbar-expandtools
+##*.ui-mask-ab
+##*.weiyou-link-btn
+##*#qly-top-ad
+##*#doc-main-bd
+##*#doc-main-ft
+##*#longlong-frame
+##*#guide.guide
+##*.focus_news
+##*#so-hotword
+##*.qly-top
+##*.countdown-wrap
+##*.qly-self-banner-top
+##*.ui-slide
+##*#hao123-bodyct
+##*.dzt-notice-alert
+##*.dztbar-t-r
