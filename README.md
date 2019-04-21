@@ -1,3 +1,4 @@
 # Adblock-Plus-List-for-China
 
-This list let Google Chrome(Also can be used in other browsers that support the ADP) Chinese users, Enjoy the ad-free web browsing!
+This list let you enjoy the ad-free web browsing!
+(Google Chrome and other browsers that support the Adblock Plus) 
