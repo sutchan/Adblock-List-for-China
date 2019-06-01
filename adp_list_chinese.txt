@@ -1,3 +1,5 @@
+######### Adblock-Plus-List-for-China #########
+######### https://github.com/xepin/Adblock-Plus-list-for-Chinese #########
 ###ald-skuRight
 ###chn-header-act-main
 ###J_act_openJ
@@ -124,6 +126,7 @@ a##.dcc-ext-ml10
 dayanzai.pipipan.com###infoModal
 dayanzai.pipipan.com##.modal-backdrop.fade.in
 div##.dcc-ext-ml10
+douban.com##.ui-overlay-mask
 freepik.com###banner-birthday
 freepik.com###banner-premium-free-download
 freepik.com###banner-valentine
