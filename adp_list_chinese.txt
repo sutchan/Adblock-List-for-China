@@ -1,5 +1,4 @@
-######### Adblock-Plus-List-for-China #########
-######### https://github.com/xepin/Adblock-Plus-list-for-Chinese #########
+###Adblock-Plus-List-for-China
 ###ald-skuRight
 ###chn-header-act-main
 ###J_act_openJ
