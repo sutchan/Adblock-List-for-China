@@ -96,6 +96,7 @@
 ##*.tripbar-expandtools
 ##*.ui-mask-ab
 ##*.ui-slide
+##*.vip-outer-history
 ##*.weiyou-link-btn
 ##.act-openJ-mask
 ##.act-openJ.act-openJ-going
@@ -143,6 +144,8 @@ freepik.com##.shutterstock
 list.tmall.com##.header-banner
 mafengwo.cn###ad1
 mafengwo.cn###ad2
+qixin.com##.content-front
+||cache.qixin.com/pcweb/cover-44a909e2.png
 ||img.alicdn.com/imgextra/i4/1042417251/*.jpg
 ||img.alicdn.com/tps/*-100.jpg
 ||img.alicdn.com/tps/*-750-90.jpg
