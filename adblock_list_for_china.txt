@@ -198,6 +198,8 @@ videocardbenchmark.net##.default-creative-iframe
 youtube.com###block
 zhihu.com##.AdblockBanner
 zmk.pw###aswift_1
+portal.qiniu.com##.portal-dynamic-entry-notification.portal-dynamic-entry-notification-info
+tigerwing.cn###popup
 ||*.shutterstock.com/thumb_large/*
 ||cache.qixin.com/pcweb/cover-*
 ||ssl-official.720static.com/tourPlayerAdv/*
