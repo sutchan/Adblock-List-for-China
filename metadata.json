@@ -1,0 +1,21 @@
+{
+  "name": "Adblock List for China",
+  "version": "1.0.1",
+  "description": "An ad blocking filter list specifically optimized for Chinese websites",
+  "homepage": "https://github.com/sutchan/Adblock-List-for-China",
+  "issues": "https://github.com/sutchan/Adblock-List-for-China/issues",
+  "license": "MIT",
+  "rules_count": 207,
+  "maintainers": [
+    {
+      "name": "sutchan",
+      "email": ""
+    }
+  ],
+  "lists": [
+    {
+      "name": "adblock_list_for_china.txt",
+      "description": "Main filter list for Chinese websites"
+    }
+  ]
+}

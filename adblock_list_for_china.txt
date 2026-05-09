@@ -1,4 +1,14 @@
-!=====Adblock-List-for-China====
+! Title: Adblock List for China
+! Version: 1.0.1
+! Description: 专门针对中国网站的广告过滤规则列表 / Ad blocking rules specifically for Chinese websites
+! Home: https://github.com/sutchan/Adblock-List-for-China
+! Issues: https://github.com/sutchan/Adblock-List-for-China/issues
+! Expires: 7 days
+
+!=========================================
+! Section: 通用隐藏规则 (Generic Hiding Rules)
+!=========================================
+
 ###ad1
 ###ad2
 ###adobe-coupon
@@ -23,6 +33,11 @@
 ###social-footer
 ###sufei-dialog-close
 ###w_wp
+
+!=========================================
+! Section: 域名限定隐藏规则 - 通用 (Domain-Specific Hiding - General)
+!=========================================
+
 ##*#J_TmallApkRateTab
 ##*#LayerLogin #dialog
 ##*#bjd_yifenqian_detail
@@ -50,6 +65,11 @@
 ##*#so-hotword
 ##*#sufei-dialog-content
 ##*#youdaoGWZS-sidebar-right
+
+!=========================================
+! Section: CSS 类名隐藏规则 (CSS Class Hiding Rules)
+!=========================================
+
 ##*.AdblockBanner
 ##*.J_TQRLinkShop
 ##*.ad-box
@@ -92,6 +112,11 @@
 ##*.vip-outer-history
 ##*.weiyou-link-btn
 ##*adobe-coupon-container
+
+!=========================================
+! Section: 点号类名隐藏规则 (Dot Class Hiding Rules)
+!=========================================
+
 ##.AdblockBanner
 ##.act-openJ-mask
 ##.act-openJ.act-openJ-going
@@ -141,18 +166,82 @@
 ##.ytd-iframe-companion-renderer
 ##.ytp-ad-overlay-ad-info-dialog-container
 ##a[style="position: absolute;top: 10px;right: 0;padding: 10px 10px 0 0;"]
+
+!=========================================
+! Section: 特定网站规则 - 720全景 (Site-Specific - 720 Panorama)
+!=========================================
+
 720yun.com##.Ads_ads_2vcYaB
 720yun.com##.ads--RPf__
 720yun.com##.ads--hCOEr
+
+!=========================================
+! Section: 特定网站规则 - 协作工具 (Site-Specific - Collaboration Tools)
+!=========================================
+
 app.huoban.com##.excel_legend.legend_1
+
+!=========================================
+! Section: 特定网站规则 - 硬件评测 (Site-Specific - Hardware Benchmarks)
+!=========================================
+
 cpubenchmark.net##.fuse-slot.up-show
+videocardbenchmark.net##.default-creative-iframe
+technical.city##.banner
+technical.city##.default-creative-iframe
+
+!=========================================
+! Section: 特定网站规则 - 电商平台 (Site-Specific - E-commerce)
+!=========================================
+
 detail.tmall.com##a[style="background:#FFF;display:block;position:relative;z-index:9999999"]
+item.taobao.com##.dcc-ext-item.dcc-ext-detail-header
+item.taobao.com##.dcc-ext-ml5
+sell.manage.tmall.com###bottom-advertising-tip
+sell.manage.tmall.com##.mc-o-ads-slider
+taobao.com###J_Banner
+taobao.com###chn-header-act-main
+taobao.com##.J_DirectionalBox
+taobao.com##.J_Module.tbh-superbanner.clearfix
+taobao.com##.everywhere-widget-container
+taobao.com##.seat-gg
+taobao.com##.topBanner
+
+!=========================================
+! Section: 特定网站规则 - 豆瓣 (Site-Specific - Douban)
+!=========================================
+
 douban.com##.ui-overlay-mask
+
+!=========================================
+! Section: 特定网站规则 - Fiverr (Site-Specific - Fiverr)
+!=========================================
+
 fiverr.com##.page-alert-wrap.js-page-alert-wrap.shown
+
+!=========================================
+! Section: 特定网站规则 - 旅行预订 (Site-Specific - Travel Booking)
+!=========================================
+
 fliggy.com###chn-header-act-main
+
+!=========================================
+! Section: 特定网站规则 - 3D资源 (Site-Specific - 3D Resources)
+!=========================================
+
 free3d.com##.search-result.premium
+
+!=========================================
+! Section: 特定网站规则 - MIDI资源 (Site-Specific - MIDI Resources)
+!=========================================
+
 freedidi.com##.vowecywqkb-blackout.active
 freedidi.com##.vowecywqkb-wrapper
+
+!=========================================
+! Section: 特定网站规则 - Freepik (Site-Specific - Freepik)
+!=========================================
+
 freepik.com##.content--premium
 freepik.com##.content.pd-lv2
 freepik.com##.detail__aside--left.detail__spr.noscript.show-campaign
@@ -162,44 +251,99 @@ freepik.com##.rb
 freepik.com##.showcase-spr
 freepik.com##.spr
 freepik.com##.ssm_adunit_container
-item.taobao.com##.dcc-ext-item.dcc-ext-detail-header
-item.taobao.com##.dcc-ext-ml5
+
+!=========================================
+! Section: 特定网站规则 - 其他资源 (Site-Specific - Other Resources)
+!=========================================
+
 kaoqiezi.com
+
+!=========================================
+! Section: 特定网站规则 - Mixkit (Site-Specific - Mixkit)
+!=========================================
+
 mixkit.co##.elements-generic-banner__wrapper
 mixkit.co##.elements-video-items
 mixkit.co##.modal__overlay
 mixkit.co##.video-item__upsell
+
+!=========================================
+! Section: 特定网站规则 - OSDN (Site-Specific - OSDN)
+!=========================================
+
 osdn.net###after-download-ad
+
+!=========================================
+! Section: 特定网站规则 - 百度 (Site-Specific - Baidu)
+!=========================================
+
 pan.baidu.com##*.ad-platform-tips
+
+!=========================================
+! Section: 特定网站规则 - 图库网站 (Site-Specific - Stock Photos)
+!=========================================
+
 pexels.com##.photo-page__section--sponsored-photos
 pexels.com##.search__ad
 pixabay.com##.external-media
-playgroundai.com##.col-span-full.rounded-md.border.border-red-800\/50.bg-red-900\/20.p-2.font-medium.text-white
-qixin.com##.content-front
-sell.manage.tmall.com###bottom-advertising-tip
-sell.manage.tmall.com##.mc-o-ads-slider
-smzdm.com##.div-gpt-ad-*
-speedtest.net##iframe
 stock.adobe.com###fmf-promo
-stock.tuchong.com##.dialog-account
-taobao.com###J_Banner
-taobao.com###chn-header-act-main
-taobao.com##.J_DirectionalBox
-taobao.com##.J_Module.tbh-superbanner.clearfix
-taobao.com##.everywhere-widget-container
-taobao.com##.seat-gg
-taobao.com##.topBanner
-technical.city##.banner
-technical.city##.default-creative-iframe
-tianyancha.com##.vip-outer-human-role
 unsplash.com##._2obdA.WcYKB
-v.qq.com##txpdiv_ad
-videocardbenchmark.net##.default-creative-iframe
+
+!=========================================
+! Section: 特定网站规则 - PlaygroundAI (Site-Specific - PlaygroundAI)
+!=========================================
+
+playgroundai.com##.col-span-full.rounded-md.border.border-red-800\/50.bg-red-900\/20.p-2.font-medium.text-white
+
+!=========================================
+! Section: 特定网站规则 - 企业信息 (Site-Specific - Business Info)
+!=========================================
+
+qixin.com##.content-front
+tianyancha.com##.vip-outer-human-role
+
+!=========================================
+! Section: 特定网站规则 - 什么值得买 (Site-Specific - SMZDM)
+!=========================================
+
+smzdm.com##.div-gpt-ad-*
+
+!=========================================
+! Section: 特定网站规则 - Speedtest (Site-Specific - Speedtest)
+!=========================================
+
+speedtest.net##iframe
+
+!=========================================
+! Section: 特定网站规则 - 图虫 (Site-Specific - Tuchong)
+!=========================================
+
+stock.tuchong.com##.dialog-account
+
+!=========================================
+! Section: 特定网站规则 - YouTube (Site-Specific - YouTube)
+!=========================================
+
 youtube.com###block
+
+!=========================================
+! Section: 特定网站规则 - 知乎 (Site-Specific - Zhihu)
+!=========================================
+
 zhihu.com##.AdblockBanner
+
+!=========================================
+! Section: 特定网站规则 - 其他 (Site-Specific - Others)
+!=========================================
+
 zmk.pw###aswift_1
 portal.qiniu.com##.portal-dynamic-entry-notification.portal-dynamic-entry-notification-info
 tigerwing.cn###popup
+
+!=========================================
+! Section: 网络规则 - 图片/CDN屏蔽 (Network Rules - Image/CDN Blocking)
+!=========================================
+
 ||*.shutterstock.com/thumb_large/*
 ||cache.qixin.com/pcweb/cover-*
 ||ssl-official.720static.com/tourPlayerAdv/*

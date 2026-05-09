@@ -1,1 +1,29 @@
+# Backup files
 *.bak
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Test output
+test-output/
+coverage/
+
+# Temp files
+tmp/
+temp/
